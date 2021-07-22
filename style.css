@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+}
+.Pass
+{
+    background-color: aquamarine;
+}
+.Fail
+{
+    background-color: aqua;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+.contacty
+{
+    background-color: cadetblue;
+}
